@@ -1,9 +1,6 @@
-<p align="center">
-  <b><font size="200">Proyecto Individual Nº2:</font></b>
-</p>
-<p align="center">
-  <b><font size="200">Siniestros Viales</font></b>
-</p>
+<h1 align="center">Proyecto Individual Nº2:</h1>
+<h1 align="center">Siniestros Viales</h1>
+
 
 ![Imagen Proyecto](png/Imagen%20Proyecto.jpg)
 
