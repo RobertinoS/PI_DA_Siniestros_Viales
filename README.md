@@ -1,5 +1,5 @@
-<h1 align="center">Proyecto Individual Nº2:</h1>
-<h1 align="center">Siniestros Viales</h1>
+<h1 align="center">Proyecto Individual Nº2: Siniestros Viales</h1>
+
 
 
 ![Imagen Proyecto](png/Imagen%20Proyecto.jpg)
