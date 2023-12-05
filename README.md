@@ -27,7 +27,8 @@ El proceso comenzó con una fase de ETL, donde se verificó la limpieza de los d
 
 Se ejecutó el procedimiento ETL (Extracción, Limpieza y Transformación) para los datos. Se observó que el conjunto de datos estaba en condiciones óptimas para su uso, presentando mínimos datos incompletos o ausentes y sin incidencias de registros duplicados. Se generaron diversas tablas para simplificar el análisis, como la clasificación por semestres, y se eliminó la columna “Altura” por su escasa relevancia informativa.
 
-*El desarrollo del proceso (ETL), se puede ver en el siguiente link* [Link]()
+*El desarrollo del proceso (ETL), se puede ver en el siguiente link* [ETL_Hechos](https://github.com/RobertinoS/PI_DA_Siniestros_Viales/blob/main/ETL_Hechos.ipynb)
+                                                                     [ETL_Victimas](https://github.com/RobertinoS/PI_DA_Siniestros_Viales/blob/main/ETL_Victimas.ipynb)
 
 ## Análisis Exploratorio de Datos (EDA)
 
@@ -71,7 +72,8 @@ Tras el ETL, se llevó a cabo un EDA para poder identificar patrones y/o comport
 
 - **Conclusion General**: Los accidentes de tráfico en CABA entre 2016 y 2021 dejaron 717 víctimas. Mayormente involucraron a Hombres, siendo conductores de motos la categoría más afectada. Los accidentes ocurren principalmente en las Mañanas, en Cruces de Avenidas. Las edades de las víctimas varían: Peatones suelen ser mayores. Los conductores de autos tienen mayor responsabilidad en estos incidentes. Ademas se puede concluir que la disminucion de siniestros viales en el primer semestre del año 2020, puede ser, debido a la pandemia por COVID-19, más que porque hayan mejorado las condiciones viales
 
-*El desarrollo del proceso (EDA), se puede ver en el siguiente link* [Link]()
+*El desarrollo del proceso (EDA), se puede ver en el siguiente link* [EDA](https://github.com/RobertinoS/PI_DA_Siniestros_Viales/blob/main/EDA.ipynb)
+
 ## KPIs
 
 En este proyecto, se requirieron 2 KPIs (Indicadores clave de rendimiento), de los cuales se entregaron mismos y adicionalmente se agrego un tercer Kpi, el cual se  diseñó basándose en los datos recopilados en este estudio. A continuación se detallan los KPIs empleados.
