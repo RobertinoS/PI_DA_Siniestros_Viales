@@ -75,7 +75,7 @@ Tras el ETL, se llevó a cabo un EDA para poder identificar patrones y/o comport
 *El desarrollo del proceso (EDA), se puede ver en el siguiente link* [EDA](https://github.com/RobertinoS/PI_DA_Siniestros_Viales/blob/main/EDA.ipynb)
 ## Web Scraping
 
-Realize un Web Scraping para determinar la poblacion en CABA (2016-2021). Luego calcule la media de la misma para tomar dicho valor como poblacion total y poder realizar los KPIs posteriormente. El sitio web de donde extraje los datos es la siguiente: (https://www.ign.gob.ar/NuestrasActividades/Geografia/DatosArgentina/Poblacion2)
+Realize un Web Scraping para determinar la poblacion en CABA (2016-2021). Luego calcule la media de la misma para tomar dicho valor como poblacion total y poder realizar los KPIs posteriormente. El sitio web de donde extraje los datos es la siguiente: (https://www.ign.gob.ar/NuestrasActividades/Geografia/DatosArgentina/Poblacion2).
 *El desarrollo del proceso (Web Scraping), se puede ver en el siguiente link* [Web Scraping](https://github.com/RobertinoS/PI_DA_Siniestros_Viales/blob/main/WebScraping.ipynb)
 
 ## KPIs
