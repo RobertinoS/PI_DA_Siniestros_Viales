@@ -90,6 +90,11 @@ En este proyecto, se requirieron 2 KPIs (Indicadores clave de rendimiento), de l
 
 Las tasas de mortalidad asociadas a incidentes viales son indicadores cruciales de la seguridad en el tránsito de una región. Estas tasas se calculan generalmente como el número de muertes por cada cierto número de habitantes o vehículos registrados. La disminución de estas tasas es un objetivo principal para mejorar la seguridad vial y resguardar la vida de los ciudadanos en el entorno urbano, es decir, en la ciudad. Estos datos fueron fundamentales en la definición de los KPIs.
 
+## DASHBOARD
+
+Por ultimo, elabore el Dashboard interactivo en Power Bi, en el cual se pueden observar conclusiones tanto del EDA, como tambien de los KPIs.
+*El desarrollo del proceso (DASHBOARD), se puede ver en el siguiente link* [DASHBOARD](https://github.com/RobertinoS/PI_DA_Siniestros_Viales/blob/main/WebScraping.ipynb)
+
 ## Stack Tecnologico:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
