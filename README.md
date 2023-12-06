@@ -93,7 +93,7 @@ Las tasas de mortalidad asociadas a incidentes viales son indicadores cruciales 
 ## DASHBOARD
 
 Por ultimo, elabore el Dashboard interactivo en Power Bi, en el cual se pueden observar conclusiones tanto del EDA, como tambien de los KPIs.
-*El desarrollo del proceso (DASHBOARD), se puede ver en el siguiente link* [DASHBOARD](https://github.com/RobertinoS/PI_DA_Siniestros_Viales/blob/main/WebScraping.ipynb)
+*El desarrollo del proceso (DASHBOARD), se puede ver en el siguiente link* [DASHBOARD](https://github.com/RobertinoS/PI_DA_Siniestros_Viales/blob/main/homicidios.pbix)
 
 ## Stack Tecnologico:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
