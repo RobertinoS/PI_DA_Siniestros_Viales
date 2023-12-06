@@ -33,25 +33,25 @@ Se ejecutó el procedimiento ETL (Extracción, Limpieza y Transformación) para 
 ## Análisis Exploratorio de Datos (EDA)
 
 Tras el ETL, se llevó a cabo un EDA para poder identificar patrones y/o comportamientos de los datos provenientes de las base de datos pertinente. A contuniacion se observan las siguientes conclusiones que se obtuvieron, seguido de una conclusion general.
-
+Nota: Para valores practicos, se considerarán el numero de victimas en porsentajes
 - Fluctuaciones Temporales de Víctimas:
 - Entre 2016 y 2021 se registraron 717 víctimas en total.
 
 - Distribución de víctimas:
     - Diariamente: Mayor número de accidentes entre las 5 y las 7 de la mañana.
-    - Semanalmente: El miércoles tiene la menor cantidad de víctimas (101) y el domingo la mayor (117).
-    - Mensualmente: Diciembre tiene la menor cantidad (51) y julio la mayor (87).
+    - Semanalmente: El miércoles tiene la menor cantidad de víctimas (14.08%) y el domingo la mayor (16.31%).
+    - Mensualmente: Diciembre tiene la menor cantidad (7.11%) y julio la mayor (12.13%).
 
 - Análisis por Sexo y Rol
 - Sexo de las Víctimas:
-    - Mayor cantidad de víctimas: Masculino (551).
+    - Mayor cantidad de víctimas: Masculino (76.84%).
 - Roles:
-    - Mayor cantidad de víctimas masculinas son conductores (320).
-    - Mayor cantidad de víctimas femeninas son peatones (103).
+    - Mayor cantidad de víctimas masculinas son conductores (44.63%).
+    - Mayor cantidad de víctimas femeninas son peatones (14.36%).
 
 - Tipo de Vehículo:
-    - Mayor cantidad de víctimas masculinas en motos (266).
-    - Mayor cantidad de víctimas femeninas son peatones (103).
+    - Mayor cantidad de víctimas masculinas en motos (37.09%).
+    - Mayor cantidad de víctimas femeninas son peatones (14.36%).
 
 - Edades de las Víctimas
     - Mediana de edad general: 39 años.
