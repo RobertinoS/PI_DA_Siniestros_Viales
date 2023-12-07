@@ -35,7 +35,7 @@ Se ejecutó el procedimiento ETL (Extracción, Limpieza y Transformación) para 
 Tras el ETL, se llevó a cabo un EDA para poder identificar patrones y/o comportamientos de los datos provenientes de las base de datos pertinente. A contuniacion se observan las siguientes conclusiones que se obtuvieron, seguido de una conclusion general.
 Nota: Para valores practicos, se considerarán el numero de victimas en porsentajes
 - Fluctuaciones Temporales de Víctimas:
-- Entre 2016 y 2021 se registraron 717 víctimas en total.
+- Entre 2016 y 2021 se registraron 760 víctimas en total.
 
 - Distribución de víctimas:
     - Diariamente: Mayor número de accidentes entre las 5 y las 7 de la mañana.
